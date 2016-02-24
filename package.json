@@ -1,0 +1,16 @@
+{
+  "name": "webpack-jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jquery": "^2.2.1",
+    "sizzle": "^2.3.0",
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "build": "node node_modules/webpack/bin/webpack --display-modules"
+  },
+  "author": "",
+  "license": "ISC"
+}
